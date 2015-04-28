@@ -1,5 +1,5 @@
 /**
- * Database structures and algorithms assignment. Create a tour class
+ * Data structures and algorithms assignment. Create a tour class
  * that allows nodes to be inserted using two different heuristics. 
  * Smallest increase in tour length and nearest neighbour insertion. 
  */
